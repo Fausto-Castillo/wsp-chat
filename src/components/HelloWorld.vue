@@ -32,12 +32,9 @@
 </template>
 
 <script>
-import WspChat from "./WspChat.vue";
+
 export default {
   name: 'HelloWorld',
-  components:{
-    WspChat
-  },
   props: {
     msg: String
   }

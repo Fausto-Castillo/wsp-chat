@@ -1,5 +1,6 @@
 {
-  "name": "@fc/wspChat",
+  "name": "@fausto-castillo/wspchat",
+  "author": "Fausto Castillo",
   "version": "0.1.0",
   "private": false,
   "main": "./dist/wsp-chat.common.js",
@@ -48,6 +49,10 @@
       "parser": "babel-eslint"
     },
     "rules": {}
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fausto-Castillo/wsp-chat.git"
   },
   "browserslist": [
     "> 1%",
